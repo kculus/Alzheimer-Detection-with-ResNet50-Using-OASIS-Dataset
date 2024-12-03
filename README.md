@@ -38,7 +38,7 @@ We used the **OASIS Alzheimer's Detection**, which is available on Kaggle. The d
   - Non-Demented: 67,200 images
   - Very Mild Dementia: 13,700 images
 
-- **Dataset Source**: [OASIS Dataset on Kaggle](https://www.kaggle.com/datasets)
+- **Dataset Source**: [OASIS Dataset on Kaggle](https://www.kaggle.com/datasets/ninadaithal/imagesoasis/data)
 - **Preprocessing Steps**:
   - Images resized to 496x248 pixels
   - Normalization applied to scale pixel values
@@ -92,11 +92,10 @@ The model uses the **ResNet50** architecture, a deep residual learning framework
 ## References and Acknowledgements
 
 - **Dataset**: The dataset used in this project is the OASIS Alzheimer's MRI dataset, which can be accessed on Kaggle:
-  [OASIS Dataset on Kaggle]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/ninadaithal/imagesoasis/data))
+  [OASIS Dataset on Kaggle](https://www.kaggle.com/datasets/ninadaithal/imagesoasis/data)
 
 - **Kaggle Notebook**: The original notebook containing the complete code, results, and visualizations can be accessed here:
-  [View Notebook on Kaggle]([https://www.kaggle.com/your_kaggle_username/your_notebook_name](https://www.kaggle.com/code/kasmcanulus/alzheimer-detection-with-resnet50))
-
+  [View Notebook on Kaggle](https://www.kaggle.com/code/kasmcanulus/alzheimer-detection-with-resnet50)
 ---
 
 ### Note
