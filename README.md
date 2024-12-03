@@ -1,0 +1,1 @@
+# Alzheimer-Detection-with-ResNet50-Using-OASIS-Dataset
